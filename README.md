@@ -15,3 +15,4 @@ EOF
 
 Это изменение сделано прямо на GitHub.
 Update on main before rebase
+## Финальные штрихи
